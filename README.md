@@ -1,5 +1,5 @@
 # Turtlesport
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=zonedbit_turtlesport&metric=alert_status)](https://sonarcloud.io/dashboard?id=zonedbit_turtlesport)
 
 ## Description
 Turtle Sport is an open source software developed to communicate
